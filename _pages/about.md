@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Yi Xie (谢意). I am a fifth-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Xiaofeng Chen](https://web.xidian.edu.cn/xfchen/). I received my bachelor degree in engineering from School of Cyber Engineering, Xidian University in 2019.
+Hi! I am Yi Xie (谢意). I am a Postdoctoral Researcher at [Tsinghua University SIGS](https://www.sigs.tsinghua.edu.cn/). I received my Ph.D. degree from School of Cyber Engineering, [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Xiaofeng Chen](https://web.xidian.edu.cn/xfchen/).
 
 
 
@@ -18,10 +18,12 @@ Research Interests
 - Privacy-preserving Machine Learning
   - Model Extraction Attack
   - Machine Unlearning
-  - Incremental Learning
+- Agent Security
+- LLM for Cybersecurity
 
 News
 ======
+ - **[Nov. 2025]** One paper accepted by **the Network and Distributed System Security Symposium (NDSS 2026)**!
  - **[Dec. 2023]** One paper accepted by **the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**!
  - **[May. 2023]** One paper accepted by **the 18th ACM ASIA Conference on Computer and Communications Security (ACM AsiaCCS 2023)**!
  - **[Sep. 2022]** Became a visiting PhD of Nanyang Technological University, supervised by [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html).
